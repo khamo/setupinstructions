@@ -1,6 +1,5 @@
 # **How to install and configure PostgreSQL on a CentOS machine**
 
-# Table of Contents
 
 
 <br></br>
