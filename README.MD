@@ -1,15 +1,10 @@
 # **How to install and configure PostgreSQL on a CentOS machine**
 
 # Table of Contents
-- [Step 1: Login as root and update system](#step1)
-
-
-- [Step 11: Backing Up Media Wiki](#step11)
-
 
 
 <br></br>
-## Step 1: Login as root and update system  <a name="step1"></a>
+## Step 1: Login as root and update system  
 ---
 The first thing we want to do is make sure we are logged in as root. To do that in CentOS we type 
 
@@ -381,7 +376,7 @@ Click on Log In . Enter the Admin Credentials that we have set during the instal
 <br></br>
 <br></br>
 <br></br>
-## <a name="step11"> Step 11: Backing Up Media Wiki</a>
+## Step 11: Backing Up Media Wiki
 
 Similar to step 9, 
 
